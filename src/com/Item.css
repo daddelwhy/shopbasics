@@ -1,0 +1,15 @@
+input {
+    border: 1px solid red;
+    text-align: center;
+    width: 32px;
+    font-size: 18px;
+    margin-top: 10px 0;
+    margin: 0 5px;
+}
+
+.qua {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
